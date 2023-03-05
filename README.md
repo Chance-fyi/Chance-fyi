@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Chance-fyi/Chance-fyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=Chance-fyi&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&text_color=718096&bg_color=fffffe&icon_color=64b883)
